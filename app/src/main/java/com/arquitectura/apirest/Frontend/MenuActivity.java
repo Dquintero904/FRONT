@@ -38,7 +38,6 @@ public class MenuActivity extends AppCompatActivity {
         helloUserName = findViewById(R.id.helloUserName);
 
         startQuiz = (CardView) findViewById(R.id.startQuiz);
-        rules = (CardView) findViewById(R.id.rules);
         history = (CardView) findViewById(R.id.history);
         editPassword = (CardView) findViewById(R.id.editPassword);
         logout = (CardView) findViewById(R.id.logout);
